@@ -1,5 +1,9 @@
 # Corbin Couger, MS Data Scientist
-| ![Headshot](img/professional_pic.jfif) | some text |
+![Headshot](img/professional_pic.jfif)
+- Professional Certification in ML and AI
+- Master's of Science in Data Science
+- Bachelor's of Science in Statistics
+  
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
 [About Me](#about-me)
 
