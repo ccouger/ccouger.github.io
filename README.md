@@ -1,5 +1,7 @@
 # Corbin Couger, MS Data Scientist
 ![Headshot](img/professional_pic.jfif)
+
+<img src="img/professional_pic.jfif" alt="Description of Image" style="float: left; margin-right: 15px; margin-bottom: 10px; width: 200px;">
 - Professional Certification in ML and AI
 - Master's of Science in Data Science
 - Bachelor's of Science in Statistics
