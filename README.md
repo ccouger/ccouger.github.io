@@ -1,5 +1,5 @@
 # Corbin Couger, MS Data Scientist
-![Headshot](.img/professional_pic.jfif)
+![Headshot](img/professional_pic.jfif)
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
 [About Me](#about-me)
 
