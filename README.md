@@ -1,4 +1,4 @@
-# Corbin Couger, MS Data Scientist
+# Corbin Couger, M.S. Data Scientist
 
 <img src="img/professional_pic.jfif" alt="Description of Image" style="float: left; margin-right: 30px; margin-bottom: 20px; width: 300px;">
 - Professional Certification in ML and AI
@@ -26,7 +26,7 @@ The industries that I enjoy are **Fintech, Quantitative positions, Tech, and E-C
 
 In my personal projects, **when I am coding**, I'm usually building some sort of predictive model (Regression, Tree based models, Neural Networks), doing some annomaly detection, looking at how I can discover opportunity in the stock market/sports betting, or anything that would relate to an idea or interest of mine. Things that interest me usually ends up with me finding data related to this interest, and taking a deep dive into it.
 
-**When I am not coding**, I'm either out running or working out, at a movie theater, golfing (weather permitting), or hanging out with the people I love.
+**When I am not coding**, I'm either out running or working out 🏃, at a movie theater 🎥, golfing (weather permitting) ⛳, or hanging out with the people I love.
 
 This section, yes, is about me... but a skill outside of the technical pieces I have and enjoy is to connect. I am always available to talk about Data Science, various industries, or anything. Check out my contact information below to connect.
 
