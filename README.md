@@ -41,13 +41,11 @@ Furthermore, I've linked my Resume at the bottom of this page if you'd like to c
 ### Contact Information
 Feel free to reach out via email or connect on LinkedIn with any questions or comments!
 
-corbin.0007@yahoo.com
+📧 corbin.0007@yahoo.com
 
-or visit my [LinkedIn](https://www.linkedin.com/in/corbincouger/)
+💼 [LinkedIn](https://www.linkedin.com/in/corbincouger/)
 
-I will be quick to respond.
-
-My [resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf) is also included in my repo with further contact information
+👤 [Resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf)
 
 ## Contents
 
