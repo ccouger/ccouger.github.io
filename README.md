@@ -2,8 +2,8 @@
 
 <img src="img/professional_pic.jfif" alt="Description of Image" style="float: left; margin-right: 30px; margin-bottom: 20px; width: 300px;">
 - Professional Certification in ML and AI
-- Master's of Science in Data Science
-- Bachelor's of Science in Statistics
+- Master of Science in Data Science
+- Bachelor of Science in Statistics
 - [Check Out My Resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf)
   
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
