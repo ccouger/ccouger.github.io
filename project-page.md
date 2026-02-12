@@ -10,14 +10,14 @@ Thanks for checking them out!
 
 ### [Ad Click Through Logistic Regression](Projects/Ad_Click_Through_README.md)
 
-### [Creating & Visualizing a Movie Database](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Creating%20and%20Visualizing%20Movie%20Database.pdf)
+### [Creating & Visualizing a Movie Database](Projects/Creating_and_Visualizing_Movie_Data_README.md)
 
-### [Weather Application](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Weather%20App%20-%20API.py)
+### [Weather Application](Projects/Weather_App_README.md)
 
-### [Customer Churn Rate Using Logistic Regression & Decision Trees](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Bank%20Customer%20Churn%20Rate%20Logistic%20Regression%20and%20Decision%20Tree.pdf)
+### [Customer Churn Rate Using Logistic Regression & Decision Trees](Projects/Bank_Customer_Churn_Rate_README.md)
 
-### [Youtube Views Linear Regression](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Youtube%20Views%20Linear%20Regression.pdf)
+### [Youtube Views Linear Regression](Projects/Youtube_Views_Linear_Regression_README.md)
 
-### [Stock Price Prediction, Time Series Analysis](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Stock%20Predictions%20Time%20Series%20Analysis.pdf)
+### [Stock Price Prediction, Time Series Analysis](Projects/Stock_Predictions_Time_Series_Analysis_README.md)
 
-### [Spotify Recommender System](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Spotify%20Recommender%20System.pdf)
+### [Spotify Recommender System](Projects/Spotify_Recommender_System_README.md)
