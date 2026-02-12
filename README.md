@@ -24,7 +24,7 @@ Welcome! I'm a Data Scientist living in the great city of Chicago, IL who is con
 
 The industries that I enjoy are **Fintech, Quantitative positions, Tech, and E-Commerce**. 
 
-In my personal projects, **when I am coding**, I'm usually building some sort of predictive model (Regression, Tree based models, Neural Networks), doing some annomaly detection, looking at how I can discover opportunity in the stock market/sports betting, or anything that would relate to an idea or interest of mine. Things that interest me usually ends up with me finding data related to this interest, and taking a deep dive into it.
+In my personal and professional projects, **when I am coding**, I'm usually building some sort of predictive model (Regression, Tree based models, Neural Networks), doing some annomaly detection, looking at how I can discover opportunity in the stock market/sports betting, or anything that would relate to an idea or interest of mine. Things that interest me usually ends up with me finding data related to this interest, and taking a deep dive into it.
 
 **When I am not coding**, I'm either out running or working out 🏃, at a movie theater 🎥, golfing (weather permitting) ⛳, or hanging out with the people I love.
 
@@ -34,9 +34,9 @@ This section, yes, is about me... but a skill outside of the technical pieces I 
 
 Currently, I work as a Marketing Data Scientist where I utilize many different Data Science and ML methods to help the teams at the company. Working with Sales, Marketing, and Operations teams; I had to learn the company and all the data we have available. My typical work consists of data cleaning, model building (classification and predictive models) to help discover opportunity for the marketing and sales orgs.
 
-Before my current role, I was an Analyst working deep with Healthcare data. I dealt with millions of claims at a time where I would utilize SQL and Python to clean, explore, and produce reports that would drive decision making across many cross-functional teams. I did end up leaving this opportunity however because of the industry. I have a huge appreciation for Healthcare, but, as I listed above, Fintech, Finance, and Tech are where I find my passion. This role did give me experience that I have been able to transfer to my current role and personal projects.
+Before my current role, I was an Analyst working deep with Healthcare data. I dealt with millions of claims at a time where I would utilize SQL and Python to clean, explore, build models, and produce reports that would drive decision making across many cross-functional teams. This role did give me experience that I have been able to transfer to my current role and personal projects.
 
-Furthermore, I've linked my Resume at the bottom of this page if you'd like to check out other experiences as well.
+To find a deeper look into all of my professional experiences, I've linked my Resume at below in my [contact information](#contact-information) if you'd like to check out other experiences as well.
 
 ### Contact Information
 Feel free to reach out via email or connect on LinkedIn with any questions or comments!
