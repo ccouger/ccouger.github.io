@@ -8,7 +8,7 @@ Thanks for checking them out!
 
 [Link to all Projects](https://github.com/ccouger/ccouger.github.io/tree/main/Projects)
 
-### [Ad Click Through Logistic Regression](Projects/Ad-Click-Through-README.md)
+### [Ad Click Through Logistic Regression](Projects/Ad Click Through README.md)
 
 ### [Creating & Visualizing a Movie Database](https://github.com/ccouger/ccouger.github.io/blob/main/Projects/Creating%20and%20Visualizing%20Movie%20Database.pdf)
 
