@@ -21,10 +21,3 @@ Thanks for checking them out!
 ### [Stock Price Prediction, Time Series Analysis](Projects/Stock_Predictions_Time_Series_Analysis_README.md)
 
 ### [Spotify Recommender System](Projects/Spotify_Recommender_System_README.md)
-
-<object data="Corbin Couger Resume 2026.pdf" 
-        type="application/pdf" 
-        width="100%" 
-        height="500px">
-    <p>Your browser does not support PDFs. <a href="https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf">Download the PDF</a> instead.</p>
-</object>
