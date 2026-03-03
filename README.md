@@ -30,6 +30,10 @@ In my personal and professional projects, **when I am coding**, I'm usually buil
 
 This section, yes, is about me... but a skill outside of the technical pieces I have and enjoy is to connect. I am always available to talk about Data Science, various industries, or anything. Check out my contact information below to connect.
 
+<br />
+<br />
+<br />
+
 ### Recent Experiences
 
 Currently, I work as a Marketing Data Scientist where I utilize many different Data Science and ML methods to help the teams at the company. Working with Sales, Marketing, and Operations teams; I had to learn the company and all the data we have available. My typical work consists of data cleaning, model building (classification and predictive models) to help discover opportunity for the marketing and sales orgs.
@@ -37,6 +41,10 @@ Currently, I work as a Marketing Data Scientist where I utilize many different D
 Before my current role, I was an Analyst working deep with Healthcare data. I dealt with millions of claims at a time where I would utilize SQL and Python to clean, explore, build models, and produce reports that would drive decision making across many cross-functional teams. This role did give me experience that I have been able to transfer to my current role and personal projects.
 
 To find a deeper look into all of my professional experiences, I've linked my Resume at below in my [contact information](#contact-information) if you'd like to check out other experiences as well.
+
+<br />
+<br />
+<br />
 
 ### Contact Information
 Feel free to reach out via email or connect on LinkedIn with any questions or comments!
@@ -46,6 +54,10 @@ Feel free to reach out via email or connect on LinkedIn with any questions or co
 💼 [LinkedIn](https://www.linkedin.com/in/corbincouger/)
 
 👤 [Resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf)
+
+<br />
+<br />
+<br />
 
 ## Contents
 
