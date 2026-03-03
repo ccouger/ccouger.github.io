@@ -24,3 +24,5 @@ Thanks for checking them out!
 
 
 [test](pdf_viewer.html)
+
+<iframe src="https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf" width="100%" height="850px"></iframe>
