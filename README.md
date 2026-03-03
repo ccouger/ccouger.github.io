@@ -32,7 +32,6 @@ This section, yes, is about me... but a skill outside of the technical pieces I 
 
 <br />
 <br />
-<br />
 
 ### Recent Experiences
 
@@ -42,7 +41,6 @@ Before my current role, I was an Analyst working deep with Healthcare data. I de
 
 To find a deeper look into all of my professional experiences, I've linked my Resume at below in my [contact information](#contact-information) if you'd like to check out other experiences as well.
 
-<br />
 <br />
 <br />
 
