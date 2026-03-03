@@ -39,7 +39,7 @@ Currently, I work as a Marketing Data Scientist where I utilize many different D
 
 Before my current role, I was an Analyst working deep with Healthcare data. I dealt with millions of claims at a time where I would utilize SQL and Python to clean, explore, build models, and produce reports that would drive decision making across many cross-functional teams. This role did give me experience that I have been able to transfer to my current role and personal projects.
 
-To find a deeper look into all of my professional experiences, I've linked my Resume at below in my [contact information](#contact-information) if you'd like to check out other experiences as well.
+To find a deeper look into all of my professional experiences, check out my [Resume](./resume-page.html) and if you have any questions for me, feel free to reach out to my email provided in the [contact information](#contact-information).
 
 <br />
 <br />
@@ -56,6 +56,4 @@ Feel free to reach out via email or connect on LinkedIn with any questions or co
 <br />
 <br />
 
-## Contents
-
-Within this portfolio you will find some of my favorite projects (located in the 'Projects' folder, or click [here](https://github.com/ccouger/ccouger.github.io/tree/main/Projects)) throughout my data science journey. A lot of these are consisted of work I did in my graduate program when obtaining my MS in Data Science. I'm proud of these projects and am glad they can represent my enjoyment for data science and all the different techniques I enjoy. Please give a look to the other README files as they give some good insight to what each project is. Thank you!
+###### **Thank you for checking out my portfolio!** Highlighted projects will come and go from here as I am constantly working with new data, various ML methods, and more.
