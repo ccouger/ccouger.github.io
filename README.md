@@ -55,7 +55,6 @@ Feel free to reach out via email or connect on LinkedIn with any questions or co
 
 <br />
 <br />
-<br />
 
 ## Contents
 
