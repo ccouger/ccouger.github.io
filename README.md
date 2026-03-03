@@ -4,7 +4,7 @@
 - Professional Certification in ML and AI
 - Master of Science in Data Science
 - Bachelor of Science in Statistics
-- [Check Out My Resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf)
+- [Check Out My Resume](./resume-page.html)
   
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
 [About Me](#about-me)
@@ -51,7 +51,7 @@ Feel free to reach out via email or connect on LinkedIn with any questions or co
 
 💼 [LinkedIn](https://www.linkedin.com/in/corbincouger/)
 
-👤 [Resume](https://github.com/ccouger/ccouger.github.io/blob/main/Corbin%20Couger%20Resume%202026.pdf)
+👤 [Resume](./resume-page.html)
 
 <br />
 <br />
