@@ -7,9 +7,6 @@
 - [Check Out My Resume](./resume-page.html)
   
 ##### Welcome to my Portfolio! I have many different showcases of my skills in various projects here! Click on any of these sections bellow to learn more about me:
-[About Me](#about-me)
-
-[Recent Experiences](#recent-experiences)
 
 [Contact Info](#contact-information)
 
