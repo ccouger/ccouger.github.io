@@ -18,6 +18,19 @@
 <br />
 <br />
 
+### 🛠️ Technical Tools
+
+**Languages:** Python, R, SQL
+
+**Tech Stack:** Pandas, Numpy, Scikit-Learn, XGBoost, TensorFlow, Keras, PyTorch
+
+**Model Specialties:** Anomaly Detection, Deep Learning Neural Networks, Classification Techniques, Regression Techniques, Cluster Analysis
+
+**Visualization**: Seaborn, Matplotlib, ggplot, Tableau, Power BI
+
+<br />
+<br />
+
 ### About Me
 
 Welcome! I'm a Data Scientist living in the great city of Chicago, IL who is constantly seeking to evolve. Priding myself with extensive experience in Python, Statistics, Mathematics, Machine Learning, Database Management, and much more. This pride carries into how I set myself up for success with each project I work on. I take the angle of not just telling a story with the data, but to actually find actionable insight that can leverage data (no matter how it looks). My higher educational path began with an Bachelors of Science from Butler University in Statistics and Data Science, follwed by a Masters of Science in Data Science from Bellevue University. To keep my evolution you know, evolving, I'm currently getting a Professional Certification in AI and Machine Learning from a top program (Purdue University with IBM). All of these educational experiences combined with my [professional experiences](#recent-experiences) have sharpened me up to create some very advanced models with Python, PyTorch, TensorFlow, Scikit-Learn, and much more. These experiences also gave me the **superpower** of not just knowing how to code these advanced models, but to know what they are actually doing mathematically.
