@@ -20,6 +20,8 @@ End-to-End ML system detecting fraudulent transactions in real time. Explainable
 
 [Project Repo](https://github.com/ccouger/fraud_risk_detection)
 
+Python | XGBoost | Keras | SHAP | ARIMA | Streamlit
+
 ---
 
 ## Other Cool Stuff
