@@ -6,13 +6,30 @@ Be sure to click the 'Link to all Projects' below to take a look at the README f
 
 Thanks for checking them out!
 
-[Link to all Projects](https://github.com/ccouger/ccouger.github.io/tree/main/Projects)
+---
 
+## Highlighted Projects
 
-### [Weather Application](Projects/Weather_App_README.md)
+### Credit Card Fraud Detection & Transaction Risk Scoring
 
-### [Customer Churn Rate Using Logistic Regression & Decision Trees](Projects/Bank_Customer_Churn_Rate_README.md)
+End-to-End ML system detecting fraudulent transactions in real time. Explainable AI and proactive fraud volume forecasting.
 
-### [Youtube Views Linear Regression](Projects/Youtube_Views_Linear_Regression_README.md)
+- 0.95 precision, 0.88 F1 on 284k real transactions
+- SHAP explainability identifying dominant fraud signals
+- Live Streamlit dashboard with ARIMA fraud spike forecasting
 
+[Live Demo](https://fraud-risk-detection-corbincouger.streamlit.app/)
+[Project Repo](https://github.com/ccouger/fraud_risk_detection)
+
+---
+
+## Other Cool Stuff
+
+#### [Weather Application](Projects/Weather_App_README.md)
+
+#### [Customer Churn Rate Using Logistic Regression & Decision Trees](Projects/Bank_Customer_Churn_Rate_README.md)
+
+#### [Youtube Views Linear Regression](Projects/Youtube_Views_Linear_Regression_README.md)
+
+---
 ##### More Projects Coming Soon! Including: Fraud Detection App, Algorithmic Trading System, and More
