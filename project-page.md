@@ -31,4 +31,4 @@ End-to-End ML system detecting fraudulent transactions in real time. Explainable
 #### [Youtube Views Linear Regression](Projects/Youtube_Views_Linear_Regression_README.md)
 
 ---
-##### More Projects Coming Soon! Including: Fraud Detection App, Algorithmic Trading System, and More
+##### More Projects Coming Soon! Including: Algorithmic Trading System and More
