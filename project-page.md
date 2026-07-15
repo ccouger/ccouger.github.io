@@ -2,8 +2,6 @@
 
 The projects included within my repository are some of the highelights of my personal, professional, and educational career. These are projects that demonstrate my skills in AI, Machine Learning, Fraud Detection, Finance, and Neural Networks.
 
-Be sure to click the 'Link to all Projects' below to take a look at the README files for each project. This will give a brief description of the project, and what skills and work it took to take on the project.
-
 Thanks for checking them out!
 
 ---
