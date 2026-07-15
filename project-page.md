@@ -1,6 +1,6 @@
 # Projects
 
-The projects included within my repository are some of the highelights of my personal, professional, and educational career. These are projects that demonstrate my skills in AI, Machine Learning, Fraud Detection, Finance, and Neural Networks.
+Welcome to my projects! Here I highlight my favorite projects I have done through my personal, professional, and educational career. Each demonstrating different skills within AI, Machine Learning, Fraud Detection, Finance, Deep Learning, and more.
 
 Thanks for checking them out!
 
