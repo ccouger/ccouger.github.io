@@ -24,7 +24,7 @@
 
 **Model Specialties:** Anomaly Detection, Deep Learning Neural Networks, Classification Techniques, Regression Techniques, Cluster Analysis
 
-**Visualization**: Seaborn, Matplotlib, ggplot, Tableau, Power BI
+**Visualization**: Seaborn, Matplotlib, ggplot, Tableau, Power BI, Streamlit
 
 <br />
 <br />
