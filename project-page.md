@@ -19,6 +19,7 @@ End-to-End ML system detecting fraudulent transactions in real time. Explainable
 - Live Streamlit dashboard with ARIMA fraud spike forecasting
 
 [Live Demo](https://fraud-risk-detection-corbincouger.streamlit.app/)
+
 [Project Repo](https://github.com/ccouger/fraud_risk_detection)
 
 ---
